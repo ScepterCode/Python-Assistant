@@ -116,4 +116,4 @@ if st.sidebar.button("🗑️ Clear Chat"):
 
 st.sidebar.markdown("---")
 st.sidebar.markdown("**Model:** Gemini 2.0 Flash")
-st.sidebar.markdown("**Powered by Google AI**")
+st.sidebar.markdown("**Built by The Scepter**")
